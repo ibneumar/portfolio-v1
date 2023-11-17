@@ -19,7 +19,7 @@ const App = () => {
                             <li><Link to='education'>Education</Link></li>
                             <li><Link to='my-services'>My Services</Link></li>
                             <li><Link to='latest-project'>Latest Project</Link></li>
-                            <li><Link to='skills'>My Skills</Link></li>
+                            <li><Link to='my-skills'>My Skills</Link></li>
                             <li><Link to='contact'>Contact Me</Link></li>
                         </ul>
                     </div>
