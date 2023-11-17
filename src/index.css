@@ -379,6 +379,11 @@ body {
     .menu ul {
         font-size: .8rem;
     }
+
+    .cover {
+
+        width: 100%;
+    }
 }
 
 @media screen and (max-width: 500px) {
