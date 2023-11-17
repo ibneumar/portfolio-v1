@@ -19,6 +19,7 @@ const App = () => {
                             <li><Link to='education'>Education</Link></li>
                             <li><Link to='my-services'>My Services</Link></li>
                             <li><Link to='latest-project'>Latest Project</Link></li>
+                            <li><Link to='skills'>My Skills</Link></li>
                             <li><Link to='contact'>Contact Me</Link></li>
                         </ul>
                     </div>
@@ -33,6 +34,7 @@ const App = () => {
                                 <Route path='my-skills'  element={<MySkills />}/>
                                 <Route path='latest-project' element={<LatestProject />}/>
                                 <Route path='contact' element={<ContactScreen />}/>
+
                             </Routes>    
                         </div>
                     </div>
